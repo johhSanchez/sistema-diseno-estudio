@@ -1,0 +1,11 @@
+@import "../tokens/fonts.scss";
+@import "../tokens/colors.scss";
+@import "../tokens/spacing.scss";
+
+body, html {
+    font-family: $font;
+}
+
+h1 {
+    font-size: $h1;
+}
